@@ -205,5 +205,3 @@ This solution is designed with universal accessibility principles to ensure equa
 
 This project aims to transform railway station navigation into a smart, inclusive, and stress-free experience. By leveraging modern technologies such as AI-driven routing, real-time data integration, and accessibility-first design, **RailNav AI** aligns with the **Digital India** and **Smart Infrastructure** initiatives of the **Ministry of Railways**.
 
-```
-
