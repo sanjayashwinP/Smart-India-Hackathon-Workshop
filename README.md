@@ -199,7 +199,7 @@ This solution is designed with universal accessibility principles to ensure equa
 - Integration with smart wearables  
 - Emergency evacuation guidance during crises  
 
-
+---
 
 ## Conclusion
 
